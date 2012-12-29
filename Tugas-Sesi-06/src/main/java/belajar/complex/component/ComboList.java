@@ -1,6 +1,6 @@
 /**
 Created by irvan abdurrrahman - 4510210003
-Tuesday, December 30, 2012
+Sunday, December 30, 2012
 */
 
 package belajar.complex.component;

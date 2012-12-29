@@ -1,7 +1,8 @@
-/*
-	* 4510210001 - Sukma Wijaya
-	* 4510210003 - Irvan Abdurrahman
+/**
+Created by irvan abdurrrahman - 4510210003
+Sunday, December 30, 2012
 */
+
 package tugas.belajar.table;
 
 import javax.swing.*;
